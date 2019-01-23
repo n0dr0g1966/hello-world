@@ -1,3 +1,3 @@
 # hello-world
-Just another repository
+Just another repository -
 As part of this Github tutorial I am adding this edit. 
